@@ -109,6 +109,7 @@ ul { margin: 0; padding: 0; }
 .brand img { width: 48px; height: 48px; object-fit: contain; border-radius: 50%; background: var(--white); }
 .brand-name { font-family: var(--font-head); font-size: 1.25rem; font-weight: 600; line-height: 1.1; }
 .brand-name small { display: block; font-family: var(--font-body); font-size: 0.75rem; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.demo-tag { align-self: center; padding: 0.15rem 0.55rem; border-radius: 999px; background: var(--rose-deep); color: var(--white); font-size: 0.6875rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; line-height: 1.4; }
 .nav-toggle {
   display: inline-flex; align-items: center; justify-content: center; width: 48px; height: 48px;
   border: 1px solid var(--line-strong); border-radius: var(--radius-sm); background: var(--white); color: var(--espresso); cursor: pointer;

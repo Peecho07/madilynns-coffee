@@ -55,6 +55,7 @@ Shared: styles.css, script.js. Gallery page skipped: only about 10 shop photos o
 - [ ] Download photos and the logo into the site folder instead of hotlinking; write alt text from the real photos.
 - [ ] Sample brand colors from the logo file.
 - [ ] Optional: add up to 3 named review quotes with permission (none were found with a first name and source).
+- [ ] Remove the "Demo" tag in the header of every page.
 - [ ] Remove `noindex,nofollow` and set canonical URLs when the owner approves.
 
 ## Sources
